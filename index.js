@@ -12,4 +12,3 @@ function fetchImg() {
 };
 fetchImg();
 button.addEventListener("click", fetchImg);
-container.appendChild(dogImg)

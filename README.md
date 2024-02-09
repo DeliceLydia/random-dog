@@ -1,3 +1,3 @@
 # random-dog
 
-his project is about displaying dog images randomly
+This project is about displaying dog images randomly
