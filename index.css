@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.dog-button{
+  width: 300px;
+  border: none;
+  cursor: pointer;
+  background-color: #f44336;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+#dog-img{
+  width: 300px;
+  height: 250px;
+}
+
